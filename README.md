@@ -78,4 +78,4 @@ Response:
 
 ## 3 - Run only test.js file on terminal:
 
-In the project directory, you will run  `node test.js`.
+In the project directory, you will run  `node ./src/test.js`.
